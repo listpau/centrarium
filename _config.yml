@@ -7,15 +7,15 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Hi, I'm Paul
+subtitle: "Look what I've done!"
+email: paul.list@gmail.com
+name: Paul List
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
+  Something to look at.
+baseurl: "/demo/" # the subpath of your site, e.g. /blog/
+url: "http://listpau.github.io" # the base hostname & protocol for your site
+cover: "assets/sunset.JPG"
 logo: "assets/logo.png"
 
 # Build settings
@@ -68,7 +68,7 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
@@ -89,14 +89,14 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username: 
     url: 
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -117,7 +117,7 @@ social:
     username: 
     url: 
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
