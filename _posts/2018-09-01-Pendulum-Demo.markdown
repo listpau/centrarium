@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pendulum Demo"
-date:   2018-09-01
+date:   2018-09-01 00:00:02
 author: Paul List
 categories: Demo
 tags: pendulum
