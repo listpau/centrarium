@@ -11,13 +11,11 @@ A frictionless double pendulum with two massless links and servos.
 
 # [Double Pendulum Demo](https://listpau.github.io/pendulum/pendularm2.html)
 
-<br/>
+
 
 ![Under Construction!](https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif)
 
-<br/>
-<br/>
 
-<a href="https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif" data-lightbox="constructiontrucks" data-title="Under Construction!!">
+<a href="https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif">
   <img src="https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif" title="This page is under construction!!">
 </a>
