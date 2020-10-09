@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-### This site contains a sample of some projects I've done in the past and shows some interesting things about me.
+#### This site contains a sample of some projects I've done in the past, and a little bit about me!
 
 This was made using Centrarium, a custom theme for Jekyll made by [Ben Centra][bencentra] for his blog. Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
