@@ -18,4 +18,5 @@ A one degree-of-freedom frictionless pendulum with massless link and idealized s
 <br/>
 <br/>
 
-<img src="{{ site.baseurl }}assets/construction_anim.gif?raw=true" title="Under Construction">
+![Under Construction!](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/construction_anim.gif)
+
