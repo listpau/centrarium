@@ -7,6 +7,6 @@ categories: Demo
 tags: Pendulum
 ---
 
-## Double pendulum example
+A frictionless double pendulum with two massless links and servos.
 
-[Double Pendulum Demo](https://listpau.github.io/pendulum/pendularm2.html)
+# [Double Pendulum Demo](https://listpau.github.io/pendulum/pendularm2.html)
