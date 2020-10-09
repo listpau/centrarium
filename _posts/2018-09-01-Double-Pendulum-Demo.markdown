@@ -15,7 +15,9 @@ A frictionless double pendulum with two massless links and servos.
 
 ![Under Construction!](https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif?raw=true)
 
-![Under Construction!](assets/constructiontrucks.gif)
+![Under Construction!](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/constructiontrucks.gif)
+
+![Under Construction!](demo/assets/constructiontrucks.gif)
 
 <a href="https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif?raw=true">
   <img src="https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif?raw=true" title="This page is under construction!!">
