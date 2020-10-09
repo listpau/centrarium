@@ -13,7 +13,7 @@ A frictionless double pendulum with two massless links and servos.
 
 </br>
 
-![https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif](Under Construction!)
+![Under Construction!](https://github.com/listpau/demo/blob/gh-pages/assets/constructiontrucks.gif)
 
 </br>
 </br>
