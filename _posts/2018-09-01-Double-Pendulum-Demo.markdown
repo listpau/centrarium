@@ -11,8 +11,8 @@ A frictionless double pendulum with two massless links and servos.
 
 # [Double Pendulum Demo](https://listpau.github.io/pendulum/pendularm2.html)
 
-/
-/
+<br/>
+<br/>
 
 
 ![Under Construction!](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/constructiontrucks.gif)
