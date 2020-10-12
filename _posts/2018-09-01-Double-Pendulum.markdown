@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Double Pendulum Demo"
+title:  "Double Pendulum"
 date:   2018-09-01 00:00:02
 author: Paul List
 categories: Demo
@@ -9,7 +9,7 @@ tags: Pendulum
 
 A frictionless double pendulum with two massless links and servos.
 
-# [Double Pendulum Demo](https://listpau.github.io/pendulum/pendularm2.html)
+# [Double Pendulum](https://listpau.github.io/pendulum/pendularm2.html)
 
 <br/>
 <br/>
