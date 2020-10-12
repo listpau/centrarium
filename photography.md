@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Photography
 permalink: /photography/
 ---
 
-|  ## Here are some pictures I've taken.
+## Here are some pictures I've taken.
 
 <br/>
 <br/>
