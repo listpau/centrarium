@@ -37,7 +37,7 @@ paginate_path: "/page:num/"
 disqus_shortname:
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-180300854-1"
 
 # Category descriptions (for archive pages)
 descriptions:
