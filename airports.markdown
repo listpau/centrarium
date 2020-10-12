@@ -11,4 +11,4 @@ cover: "assets/avionics.jpg"
 
 <p> Expand the legend on the left side of the map to see more details. </p>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ppfeymy4rkIW5DIK1ZrvWV2sjqeCwLLO" width="1280" height="720"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Ppfeymy4rkIW5DIK1ZrvWV2sjqeCwLLO" width="960" height="720"></iframe>
