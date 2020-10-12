@@ -2,7 +2,7 @@
 layout: post
 title: Airports
 permalink: /airports/
-cover: "assets/avionics.jpg"
+cover: "assets/avionics2.jpg"
 ---
 
 <h3> Here's a map of airports I've flown to or from! </h3>
