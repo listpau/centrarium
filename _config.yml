@@ -16,7 +16,7 @@ description: >
 baseurl: "/demo/" # the subpath of your site, e.g. /blog/
 url: "http://listpau.github.io" # the base hostname & protocol for your site
 cover: "assets/sunset.JPG"
-logo: "assets/headshot.jpg"
+logo: "assets/logo.png"
 
 # Build settings
 markdown: kramdown
