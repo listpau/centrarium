@@ -5,7 +5,7 @@ permalink: /airports/
 cover: "assets/avionics.jpg"
 ---
 
-<h3> Here is a map of the airports I've flown to or from! </h3>
+<h3> Here's a map of airports I've flown to or from! </h3>
 
 <br/>
 
