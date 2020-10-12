@@ -22,8 +22,8 @@ layout: default
     <section class="post-excerpt" itemprop="description">
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>
-    <section class="post-meta">
-    	<!-- <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div> -->
+    <!-- <section class="post-meta">
+    	<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
     	<div class="post-categories">
     	{% if post.categories %}in {% for cat in post.categories %}
     	  {% if site.jekyll-archives %}
@@ -33,7 +33,7 @@ layout: default
     	  {% endif %}
     	{% endfor %}{% endif %}
     	</div>
-    </section>
+    </section> -->
   </li>
   {% if forloop.last == false %}
   <hr>
