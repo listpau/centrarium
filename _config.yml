@@ -9,7 +9,7 @@ exclude:
 # Site settings
 title: Hi, I'm Paul
 subtitle: "Look what I've done!"
-email: paul.list@gmail.com
+email:
 name: Paul List
 description: > 
   Something to look at.
