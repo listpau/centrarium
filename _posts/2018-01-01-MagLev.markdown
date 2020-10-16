@@ -9,4 +9,29 @@ categories: Demo
 Here is an example of magnetic levitation.
 
 
-Images of various things levitating.
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/maglev-hex.JPG" data-lightbox="maglev-hex" data-title="Levitating a hex head driver">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/maglev-hex.JPG" title="Levitating a hex head driver">
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/maglev-flathead.JPG" data-lightbox="maglev-flathead" data-title="Levitating a flathead">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/maglev-flathead.JPG" title="Levitating a flathead">
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/maglev-allenkey.JPG" data-lightbox="maglev-allenkey" data-title="Levitating an Allen wrench">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/maglev-allenkey.JPG" title="Levitating an Allen wrench">
+</a>
+
+
+<br/>
+<br/>
+<br/>
+
+Hardware used, controls, any other interesting technical info
