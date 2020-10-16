@@ -43,8 +43,8 @@ permalink: /photography/
 <br/>
 <br/>
 
-<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG" data-lightbox="nightflight" data-title="Nighttime short final 23L at Willow Run">
-  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG" title="Nighttime short final 23L at Willow Run">
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG" data-lightbox="nightflight" data-title="Nighttime short final">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG" title="Nighttime short final">
 </a>
 
 <br/>
