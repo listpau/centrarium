@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "MagLev"
+date:   2018-01-01 00:00:00
+author: Paul List
+categories: Demo
+---
+
+Here is an example of magnetic levitation.
+
+
+Images of various things levitating.
