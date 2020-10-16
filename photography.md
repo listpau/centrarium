@@ -9,7 +9,6 @@ permalink: /photography/
 <br/>
 <br/>
 
-![breakwall](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/breakwall.JPG)
 <a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/breakwall.JPG" data-lightbox="breakwall" data-title="The breakwall in Marquette, MI">
   <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/breakwall.JPG" title="The breakwall in Marquette, MI">
 </a>
