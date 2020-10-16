@@ -70,3 +70,11 @@ permalink: /photography/
 <a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/68334.JPG" data-lightbox="68334" data-title="Refuel">
   <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/68334.JPG" title="Refuel">
 </a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/tree_cropped.JPG" data-lightbox="tree" data-title="Fall colors">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/tree_cropped.JPG" title="Fall colors">
+</a>
