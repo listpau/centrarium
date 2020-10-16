@@ -10,42 +10,51 @@ permalink: /photography/
 <br/>
 
 ![breakwall](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/breakwall.JPG)
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/breakwall.JPG" data-lightbox="breakwall" data-title="The breakwall in Marquette, MI">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/breakwall.JPG" title="The breakwall in Marquette, MI">
+</a>
 
 <br/>
 <br/>
 <br/>
 
-![hk](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/hk.JPG)
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/hk.JPG" data-lightbox="hk" data-title="An amazing city with an incredible skyline">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/hk.JPG" title="An amazing city with an incredible skyline">
+</a>
+
 
 <br/>
 <br/>
 <br/>
 
-![motorcycle](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/motorcycle.JPG)
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/motorcycle.JPG" data-lightbox="motorcycle" data-title="A shiny motorcycle">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/motorcycle.JPG" title="A shiny motorcycle">
+</a>
 
 <br/>
 <br/>
 <br/>
 
-![jag](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/jag.JPG)
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/jag.JPG" data-lightbox="jag" data-title="2003 XJ Sport - the classiest vehicle I've ever owned">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/jag.JPG" title="2003 XJ Sport - the classiest vehicle I've ever owned">
+</a>
+
 
 <br/>
 <br/>
 <br/>
 
-![nightflight](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG)
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG" data-lightbox="nightflight" data-title="Nighttime short final 23L at Willow Run">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/nightflight.JPG" title="Nighttime short final 23L at Willow Run">
+</a>
 
 <br/>
 <br/>
 <br/>
 
-![detroit](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/detroit.JPG)
-
-<br/>
-<br/>
-<br/>
-
-![mountsainthelens](https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/mountsainthelens.JPG)
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/detroit.JPG" data-lightbox="detroit" data-title="View from the whale mural building">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/detroit.JPG" title="View from the whale mural building">
+</a>
 
 <br/>
 <br/>
@@ -53,4 +62,12 @@ permalink: /photography/
 
 <a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/mountsainthelens.JPG" data-lightbox="mount-saint-helens" data-title="I climbed Mount St. Helens!">
   <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/mountsainthelens.JPG" title="I climbed Mount St. Helens!">
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/68334.JPG" data-lightbox="68334" data-title="Refuel">
+  <img src="////raw.githubusercontent.com/listpau/demo/gh-pages/assets/68334.JPG" title="Refuel">
 </a>
