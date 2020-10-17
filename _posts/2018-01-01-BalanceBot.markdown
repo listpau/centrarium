@@ -6,9 +6,21 @@ author: Paul List
 categories: Demo
 ---
 
-A self-balancing inverted pendulum robot that is remotely-controlled to complete various tasks. Here is a video of the robot drag racing down a hallway and stopping within one meter.
+A self-balancing inverted pendulum robot that was remotely-controlled to complete various tasks. Here is a video of the robot drag racing down a hallway and stopping within one meter.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icoMt7SklTc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 // Technical specs and detailed description of control scheme
+Two types of controllers: PID with successive loop closure, and full state feedback with LQR.
+
+PID - inner loop to control body angle, outer loop for wheel angle.
+Transfer functions - G(s) and D(z)
+Block Diagram
+
+LQR - State space representation, continuous and discretized.
+Q and R matrices
+Block diagram
+
+Gyro, odometry
