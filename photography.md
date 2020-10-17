@@ -83,8 +83,8 @@ permalink: /photography/
 <br/>
 <br/>
 
-<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/mcmoran.JPG" data-lightbox="mcmoran" data-title="Rowan EXL-III in South Marsh Island Block 234">
-  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/mcmoran.JPG" title="Rowan EXL-III in South Marsh Island Block 234">
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/mcmoran.jpg" data-lightbox="mcmoran" data-title="Rowan EXL-III in South Marsh Island Block 234">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/mcmoran.jpg" title="Rowan EXL-III in South Marsh Island Block 234">
 </a>
 
 <br/>
