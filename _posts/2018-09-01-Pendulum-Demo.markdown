@@ -9,6 +9,7 @@ tags: pendulum
 
 A one degree-of-freedom frictionless pendulum with massless link and idealized servo controller. Numerical integrator methods include Euler, Verlet, Velocity Verlet, and Runge-Kutta. Motion control is achieved using PID to reach an arbitrary setpoint.
 
+Click the link below and choose an integrator by pressing 1-4 and toggle the servo with 'c'.
 
 
 # [Pendulum Demo](https://listpau.github.io/pendulum/pendularm1.html)
