@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "SLAMBot"
+date:   2018-01-01 00:00:01
+author: Paul List
+categories: Demo
+---
+
+The SLAMBot mobile robot used simultaneous localization and mapping (SLAM) along with path planning to explore an unknown environment.
+It was equipped with a Raspberry Pi 3, 2D lidar, and MEMS 3-axis IMU.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqCvId_iTJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambots.JPG" data-lightbox="slambots" data-title="Robots lined up and waiting">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambots.JPG" title="Robots lined up and waiting">
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambot-return.JPG" data-lightbox="slambot-return" data-title="SLAMBot returning home after exploring the map">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambot-return.JPG" title="SLAMBot returning home after exploring the map">
+</a>
+
+<br/>
+<br/>
+<br/>
+
+Monte Carlo Localization
+A* path planning
