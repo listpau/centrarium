@@ -10,7 +10,8 @@ A self-balancing inverted pendulum robot remotely-controlled to complete various
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icoMt7SklTc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
+
+
 
 
 Two types of controllers were demonstrated: PID with successive loop closure, and full state feedback with LQR.
