@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SLAMBot"
-date:   2018-01-01 00:00:01
+date:   2018-01-01 00:00:00
 author: Paul List
 categories: Demo
 ---
@@ -30,6 +30,9 @@ It was equipped with a Raspberry Pi 3, 2D lidar, and MEMS 3-axis IMU.
 <br/>
 <br/>
 <br/>
+The green points show the planned path, the yellow line represents the SLAM pose, and the red line shows the odometry.
+<br/>
+
 
 Monte Carlo Localization
 A* path planning
