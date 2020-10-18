@@ -12,10 +12,10 @@ A self-balancing inverted pendulum robot remotely-controlled to complete various
 
 <br>
 
-// Technical specs and detailed description of control scheme
-Two types of controllers: PID with successive loop closure, and full state feedback with LQR.
 
-PID - inner loop to control body angle, outer loop for wheel angle.
+Two types of controllers were demonstrated: PID with successive loop closure, and full state feedback with LQR.
+
+For PID, the inner loop was used for the angle of the robot, and the outer loop was used for the wheel angle.
 Transfer functions - G(s) and D(z)
 Block Diagram
 
