@@ -6,7 +6,7 @@ author: Paul List
 categories: Demo
 ---
 
-A self-balancing inverted pendulum robot that was remotely-controlled to complete various tasks. Here is a video of the robot drag racing down a hallway and stopping within one meter.
+A self-balancing inverted pendulum robot remotely-controlled to complete various tasks. Here is a video of the robot drag racing down a hallway and stopping within one meter.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icoMt7SklTc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
