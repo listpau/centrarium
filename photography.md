@@ -102,3 +102,11 @@ permalink: /photography/
 <a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/transocean.JPG" data-lightbox="transocean" data-title="Transocean Discoverer Inspiration">
   <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/transocean.JPG" title="Transocean Discoverer Inspiration">
 </a>
+
+<br/>
+<br/>
+<br/>
+
+<a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/kayak.JPG" data-lightbox="kayak" data-title="Big Red">
+  <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/kayak.JPG" title="Big Red">
+</a>
