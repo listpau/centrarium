@@ -10,7 +10,7 @@ permalink: /photography/
 <br/>
 
 <a href="assets/breakwall.JPG" data-lightbox="breakwall" data-title="The breakwall in Marquette, MI">
-  <img src="breakwall.JPG" title="The breakwall in Marquette, MI">
+  <img src="assets/breakwall.JPG" title="The breakwall in Marquette, MI">
 </a>
 
 <br/>
