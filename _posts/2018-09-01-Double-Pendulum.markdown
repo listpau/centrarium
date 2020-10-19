@@ -8,6 +8,7 @@ tags: Pendulum
 ---
 
 A frictionless double pendulum with two massless links and servos.
+Click the link below and press 'r' to select the Runge-Kutta integrator and 'x' to toggle the servo. Press 0 to reset!
 
 # [Double Pendulum](https://listpau.github.io/pendulum/pendularm2.html)
 
