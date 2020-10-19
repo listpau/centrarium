@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<br>
 <img src="https://raw.githubusercontent.com/listpau/demo/gh-pages/assets/me-small.jpg" alt="Me" width="150"/>
-<br>
 I recently graduated from the University of Michigan with a master's in mechanical engineering with a focus on mechatronics and robotics. 
 
 I'm interested in the automation and electrification of vehicles.
