@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="assets/me.jpg" alt="Me"/>
+<img src="assets/me.jpg" alt="Me" width="100"/>
 
 I recently graduated from the University of Michigan with a master's in mechanical engineering with a focus on mechatronics and robotics. 
 
