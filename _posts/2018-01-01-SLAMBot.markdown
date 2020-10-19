@@ -36,6 +36,7 @@ The green points show the planned path, the yellow line represents the SLAM pose
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqCvId_iTJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+<!---
 Monte Carlo Localization
 A* path planning
+-->
