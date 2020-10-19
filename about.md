@@ -24,5 +24,3 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
 [jekyll]: https://github.com/jekyll/jekyll
-
-</span>
