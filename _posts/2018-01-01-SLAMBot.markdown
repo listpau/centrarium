@@ -12,6 +12,9 @@ It was equipped with a Raspberry Pi 3, 2D lidar, and MEMS 3-axis IMU.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FJyO0wrP0lo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+<br/>
+<br/>
 
 <a href="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambots.JPG" data-lightbox="slambots" data-title="Robots lined up and waiting">
   <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambots.JPG" title="Robots lined up and waiting">
@@ -27,7 +30,9 @@ It was equipped with a Raspberry Pi 3, 2D lidar, and MEMS 3-axis IMU.
 
 The green points show the planned path, the yellow line represents the SLAM pose, and the red line shows the odometry.
 <br/>
-
+<br/>
+<br/>
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqCvId_iTJE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
