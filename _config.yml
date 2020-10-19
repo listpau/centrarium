@@ -16,7 +16,7 @@ description: >
 baseurl: "/demo/" # the subpath of your site, e.g. /blog/
 url: "http://listpau.github.io" # the base hostname & protocol for your site
 cover: "assets/sunset.JPG"
-logo: "assets/logo.png"
+logo: "assets/logo-small.png"
 
 # Build settings
 markdown: kramdown
@@ -119,12 +119,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "assets/logo.png"
+    fb_image: "assets/logo-small.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "assets/logo.png"
+    twitter_image: "assets/logo-small.png"
 
     os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
     os_rcs_type: "git"
