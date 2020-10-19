@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/me.jpg" title="me">
+![Picture of me](//raw.githubusercontent.com/listpau/demo/gh-pages/assets/me.jpg)
 
 I recently graduated from the University of Michigan with a master's in mechanical engineering with a focus on mechatronics and robotics. 
 
