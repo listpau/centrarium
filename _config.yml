@@ -13,7 +13,7 @@ email:
 name: Paul List
 description: > 
   Something to look at.
-baseurl: "/demo/blob/gh-pages/" # the subpath of your site, e.g. /blog/
+baseurl: "/demo/" # the subpath of your site, e.g. /blog/
 url: "http://listpau.github.io" # the base hostname & protocol for your site
 cover: "assets/sunset.JPG"
 logo: "assets/logo.png"
