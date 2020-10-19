@@ -25,7 +25,6 @@ It was equipped with a Raspberry Pi 3, 2D lidar, and MEMS 3-axis IMU.
   <img src="//raw.githubusercontent.com/listpau/demo/gh-pages/assets/slambot-return.JPG" title="SLAMBot returning home after exploring the map">
 </a>
 
-<br/>
 The green points show the planned path, the yellow line represents the SLAM pose, and the red line shows the odometry.
 <br/>
 
