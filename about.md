@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}assets/me.jpg" title="Profile Picture" class="profile">
 
 I recently graduated from the University of Michigan with a master's in mechanical engineering with a focus on mechatronics and robotics. 
 
